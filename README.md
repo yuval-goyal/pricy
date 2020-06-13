@@ -1,2 +1,0 @@
-# pricy
-Created with CodeSandbox
